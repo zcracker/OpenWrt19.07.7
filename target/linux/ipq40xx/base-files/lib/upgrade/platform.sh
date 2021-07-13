@@ -52,7 +52,7 @@ platform_do_upgrade() {
 	avm,fritzrepeater-1200 |\
 	avm,fritzrepeater-3000 |\
 	p2w,r619ac |\
-	p2w,r619ac-128m)
+	p2w,r619ac-128m |\
 	qxwlan,e2600ac-c2)
 		nand_do_upgrade "$1"
 		;;
