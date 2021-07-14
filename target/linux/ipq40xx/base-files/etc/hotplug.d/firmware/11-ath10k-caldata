@@ -126,8 +126,6 @@ case "$FIRMWARE" in
 	openmesh,a62)
 		ath10kcal_extract "0:ART" 36864 12064
 		;;
-		ath10kcal_extract "ART" 36864 12064
-		;;
 	esac
 	;;
 "ath10k/pre-cal-ahb-a000000.wifi.bin")
